@@ -1,3 +1,3 @@
 # EECS 1011 Major Project 
-## Shaun Bautista
-## Music Box
+Shaun Bautista
+Music Box
